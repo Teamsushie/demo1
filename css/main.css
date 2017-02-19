@@ -1,0 +1,129 @@
+/*/Table of contents
+1. reset
+2. about
+3. my skills
+4. map
+5. my experience
+-------/
+
+/--------THIS IS THE RESET-------/*/
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+/*/UNIVERSAL STYLES/*/
+body{
+  font-family: 'Bahiana', cursive;
+  background-color
+}
+
+h2,h3,h4{
+  font-family: 'Caveat Brush', cursive;
+}
+
+h1 {color:black;
+    font-size: 5rem}
+h2 {font-size: 5rem}
+
+h4 {font-size: 2rem}
+
+section,footer{
+  text-align: center;
+  padding:10vh 10vw;
+}
+.white-boxed {background-color:silve;
+padding: 5%;}
+
+.silver-box {background-color:deepskyblu;}
+
+.purple-box {background-color:blueviolet;}
+
+.no-padding {
+  padding:0;
+}
+
+.no-paddingtop {
+  padding-top: 0
+}
+
+.featured {background-color}
+
+.centered {text-align: center;}
+
+.right {text-align: right;}
+
+.left {text-aligh: left;}
+
+/*HEADER*/
+.top-banner{
+  min-height:100vh;
+
+  background-image: url(../image1.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+  color: #fff;}
+  header {font-size: 3rem
+  }
+
+.about-banner {
+  background-image: url(../image3.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+  color: #fff;}
+
+  .pillow {
+    position: relative;
+  }
+
+  .topleft {position: absolute; top:8px;
+  left: 35px; font size: 3rem;}
+
+  .topmidleft {position: absolute; top:8px;
+  left: 250px; font size: 3rem;}
+
+  .topright {position: absolute; top:8px;
+  right: 35px; font size:3rem;}
+
+  .topmidright {position: absolute; top:8px;
+  right: 250px; font size:3rem;}
+
+  .topmid {position:absolute; top:15px; left:0; width:100%; text-align:center; font-size: 5rem;}
+
+}
+/*/ABOUT/
+
+
+/*portfolio*/
+
+div.img {
+  margin:15px;
+  border:1px solid black;
+  float:left;
+  width:50px;
+}
+
+div.desc {padding:5px;
+text-align:center;
+text-decoration: none;
+font-weight:bold;}
+
+/*MAP*/
+
+/*EXPERIENCE*/
+.experience-banner{
+  min-height:;
+  background-image: url(../image4.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;}
+
+
+
+
+/*FOOTER*/
+
+footer .fa{
+  font-size: 2rem
+}
