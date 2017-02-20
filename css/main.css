@@ -54,13 +54,13 @@ padding: 5%;}
 
 .right {text-align: right;}
 
-.left {text-aligh: left;}
+.left {text-align: left;}
 
 /*HEADER*/
 .top-banner{
   min-height:100vh;
 
-  background-image: url(../image17.jpg);
+  background-image: url(../image1.jpg);
   background-size: cover;
   background-attachment:fixed;
   color:black;}
